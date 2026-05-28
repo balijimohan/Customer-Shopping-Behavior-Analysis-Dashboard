@@ -136,7 +136,8 @@ The Customer Shopping Behavior Analysis project successfully transforms raw cust
 
 # 📷 Dashboard Preview
 
-(https://1drv.ms/i/c/54cbeda012444387/IQAesEUhJOhsT4zTop6AWZ5LAY3KSYQzGac_Jxkd5sYPcEM?e=s2MKNZ)
+(<img width="1327" height="725" alt="Screenshot 2026-05-28 182832" src="https://github.com/user-attachments/assets/02d18b2c-6599-4150-8174-ea1d443d330f" />)
+
 
 --
 
