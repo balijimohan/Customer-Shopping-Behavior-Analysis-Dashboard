@@ -1,6 +1,6 @@
-# 🛒 Customer Shopping Behavior Analysis Dashboard
+#  Customer Shopping Behavior Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The Customer Shopping Behavior Analysis project is an end-to-end data analytics project developed using Power BI, Python, and SQL to analyze customer purchasing patterns and shopping trends. The project transforms raw customer transaction data into meaningful business insights through interactive dashboards, data analysis, and SQL-based querying.
 
@@ -8,7 +8,7 @@ This project demonstrates practical skills in data cleaning, exploratory data an
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 
 The primary objective of this project is to analyze customer shopping behavior and identify key trends that help businesses improve decision-making and customer understanding.
 
@@ -22,7 +22,7 @@ The project focuses on:
 
 ---
 
-# 🛠️ Tools & Technologies Used
+#  Tools & Technologies Used
 
 * Power BI
 * Python
@@ -45,7 +45,7 @@ The project focuses on:
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+#  Data Cleaning & Preparation
 
 The following preprocessing steps were performed before analysis:
 
@@ -58,7 +58,7 @@ The following preprocessing steps were performed before analysis:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 The Power BI dashboard includes interactive visualizations and KPI metrics such as:
 
@@ -72,7 +72,7 @@ The Power BI dashboard includes interactive visualizations and KPI metrics such 
 
 ---
 
-# 🐍 Python Analysis
+#  Python Analysis
 
 Python was used for:
 
@@ -91,7 +91,7 @@ Libraries Used:
 
 ---
 
-# 🗄️ SQL Analysis
+#  SQL Analysis
 
 SQL queries were used to:
 
@@ -103,7 +103,7 @@ SQL queries were used to:
 
 ---
 
-# 🔍 Key Insights
+#  Key Insights
 
 * Identified high-spending customer groups
 * Analyzed product categories with highest sales
@@ -113,7 +113,7 @@ SQL queries were used to:
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates practical skills in:
 
@@ -128,13 +128,13 @@ This project demonstrates practical skills in:
 
 ---
 
-# 📈 Project Outcome
+#  Project Outcome
 
 The Customer Shopping Behavior Analysis project successfully transforms raw customer transaction data into actionable business insights using Power BI, Python, and SQL. The project highlights the ability to perform end-to-end data analytics workflows and build professional business intelligence dashboards.
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 (<img width="1327" height="725" alt="Screenshot 2026-05-28 182832" src="https://github.com/user-attachments/assets/02d18b2c-6599-4150-8174-ea1d443d330f" />)
 
